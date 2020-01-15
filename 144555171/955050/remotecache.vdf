@@ -1,0 +1,27 @@
+"955050"
+{
+	"BrightMemory_EP1/Saved/SaveGames/UserSave.sav"
+	{
+		"root"		"3"
+		"size"		"1233"
+		"localtime"		"1547553861"
+		"time"		"1547553860"
+		"remotetime"		"1547553860"
+		"sha"		"9d694acf00311c96211ebd6c8395f86820ee5e47"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"1"
+	}
+	"BrightMemory_EP1/Saved/SaveGames/VRSave.sav"
+	{
+		"root"		"3"
+		"size"		"2655"
+		"localtime"		"1547553973"
+		"time"		"1547553972"
+		"remotetime"		"1547553972"
+		"sha"		"e16f4c173d4233c39708c2b13bb4e6a730f502c4"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"1"
+	}
+}

@@ -1,0 +1,75 @@
+"493900"
+{
+	"Kalypso Media/Dungeons 3/savegames/Cathedral_20190424_184340.d3z"
+	{
+		"root"		"4"
+		"size"		"20860"
+		"localtime"		"1556102620"
+		"time"		"1556102619"
+		"remotetime"		"1556102619"
+		"sha"		"fd6e206201546ee9accf17f34a328fae6c0ea990"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"Kalypso Media/Dungeons 3/savegames/autosave_20190424_181806.d3z"
+	{
+		"root"		"4"
+		"size"		"22516"
+		"localtime"		"1556101086"
+		"time"		"1556101085"
+		"remotetime"		"1556101085"
+		"sha"		"83e310f4f45c112dd0536298db145775939d995e"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"Kalypso Media/Dungeons 3/config-cloud.cfg"
+	{
+		"root"		"4"
+		"size"		"1395"
+		"localtime"		"1556102619"
+		"time"		"1556102618"
+		"remotetime"		"1556102618"
+		"sha"		"f31c95db29770f7cf095503cfb908e74ad8be77f"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"Kalypso Media/Dungeons 3/savegames/autosave_20190424_181709.d3z"
+	{
+		"root"		"4"
+		"size"		"22794"
+		"localtime"		"1556101029"
+		"time"		"1556101028"
+		"remotetime"		"1556101028"
+		"sha"		"8d417e92afd4c0337ed2b0426cde92f8c01f381b"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"Kalypso Media/Dungeons 3/savegames/autosave_20190420_004055.d3z"
+	{
+		"root"		"4"
+		"size"		"0"
+		"localtime"		"0"
+		"time"		"0"
+		"remotetime"		"1555692053"
+		"sha"		"0000000000000000000000000000000000000000"
+		"syncstate"		"1"
+		"persiststate"		"2"
+		"platformstosync2"		"-1"
+	}
+	"Kalypso Media/Dungeons 3/savegames/autosave_20190420_004227.d3z"
+	{
+		"root"		"4"
+		"size"		"0"
+		"localtime"		"0"
+		"time"		"0"
+		"remotetime"		"1555692145"
+		"sha"		"0000000000000000000000000000000000000000"
+		"syncstate"		"1"
+		"persiststate"		"2"
+		"platformstosync2"		"-1"
+	}
+}

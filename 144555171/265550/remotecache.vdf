@@ -1,0 +1,87 @@
+"265550"
+{
+	"My Games/Dead Rising 3/saves/x64_build/D3O.ProfileOptions"
+	{
+		"root"		"2"
+		"size"		"325"
+		"localtime"		"1521980058"
+		"time"		"1521980058"
+		"remotetime"		"1521111972"
+		"sha"		"3324876896a9dc6bc53cd3b92e11bf166b3c4e52"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"1"
+	}
+	"My Games/Dead Rising 3/inputbindings.ini"
+	{
+		"root"		"2"
+		"size"		"3155"
+		"localtime"		"1521980058"
+		"time"		"1521980058"
+		"remotetime"		"1520601749"
+		"sha"		"89016e6d3fe15ff024664f80099d48f2896bab21"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"1"
+	}
+	"My Games/Dead Rising 3/rendersettings.ini"
+	{
+		"root"		"2"
+		"size"		"740"
+		"localtime"		"1521979735"
+		"time"		"1521979735"
+		"remotetime"		"1521979735"
+		"sha"		"35c8df2f65ae8b200aef428f0fd1e1bf335fa065"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"1"
+	}
+	"My Games/Dead Rising 3/saves/x64_build/D3S.ProfilePlayerStats"
+	{
+		"root"		"2"
+		"size"		"16392"
+		"localtime"		"1521984388"
+		"time"		"1521984388"
+		"remotetime"		"1521984388"
+		"sha"		"414382b2ab7d3fdb70eed257d1a3b0684de4b3a1"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"1"
+	}
+	"My Games/Dead Rising 3/saves/x64_build/D3S.ProfileLastSave"
+	{
+		"root"		"2"
+		"size"		"72"
+		"localtime"		"1521984388"
+		"time"		"1521984388"
+		"remotetime"		"1520608063"
+		"sha"		"1380e3f5e8c05e3e463cd7b0ac6cd092fe8bf3a1"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"1"
+	}
+	"My Games/Dead Rising 3/saves/x64_build/D3S.MainNormalWorldState"
+	{
+		"root"		"2"
+		"size"		"2097160"
+		"localtime"		"1521984388"
+		"time"		"1521984388"
+		"remotetime"		"1521984388"
+		"sha"		"840c59911df604c87c73495816a68ee91e5087ad"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"1"
+	}
+	"My Games/Dead Rising 3/saves/x64_build/D3S.MainNormalLevelAndSpawnPoint"
+	{
+		"root"		"2"
+		"size"		"3080"
+		"localtime"		"1521984388"
+		"time"		"1521984388"
+		"remotetime"		"1521984388"
+		"sha"		"7896a3c186e51a147f0aba66a31578278e3ca9e4"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"1"
+	}
+}

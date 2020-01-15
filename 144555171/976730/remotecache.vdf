@@ -1,0 +1,39 @@
+"976730"
+{
+	"2535465796704883/Saves/AceSettings/data"
+	{
+		"root"		"0"
+		"size"		"5513"
+		"localtime"		"1576069056"
+		"time"		"1576069056"
+		"remotetime"		"1576069056"
+		"sha"		"b2e6f282278409bf55247fe13fc11a47b55f53a8"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"2535465796704883/Saves/SaveGame/halo6/campaign/header"
+	{
+		"root"		"0"
+		"size"		"4470"
+		"localtime"		"1576069229"
+		"time"		"1576069229"
+		"remotetime"		"1576069229"
+		"sha"		"3d7c3697d949dc896cc1e99f7249693ff94125b0"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"2535465796704883/Saves/SaveGame/halo6/campaign/deepSave"
+	{
+		"root"		"0"
+		"size"		"1257451"
+		"localtime"		"1576069229"
+		"time"		"1576069229"
+		"remotetime"		"1576069229"
+		"sha"		"10eeed94f4f3dab9cd6398ed463ef76afd0ecb04"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+}

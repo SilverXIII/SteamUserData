@@ -1,0 +1,75 @@
+"400"
+{
+	"cfg/config.cfg"
+	{
+		"root"		"0"
+		"size"		"7461"
+		"localtime"		"1572526711"
+		"time"		"1572526711"
+		"remotetime"		"1572526711"
+		"sha"		"52f896bc40f8a0fb0735c5bb7a0cdb22537af967"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"portal/save/autosave01.sav"
+	{
+		"root"		"1"
+		"size"		"444251"
+		"localtime"		"1572526317"
+		"time"		"1572526317"
+		"remotetime"		"1572526317"
+		"sha"		"b16cd0b3d3064840d9c5863faafe1017372d2377"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"portal/save/autosave.sav"
+	{
+		"root"		"1"
+		"size"		"445638"
+		"localtime"		"1572526325"
+		"time"		"1572526325"
+		"remotetime"		"1572526325"
+		"sha"		"2b9fbe074f7922340d01402ea7828813fb3b481d"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"portal/save/bonus_maps_data.bmd"
+	{
+		"root"		"1"
+		"size"		"224"
+		"localtime"		"1572526711"
+		"time"		"1572526711"
+		"remotetime"		"1572526711"
+		"sha"		"4b162cffa64a64b0f093b7d2a8b105d7d72257ca"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"portal/save/half-life-000.sav"
+	{
+		"root"		"1"
+		"size"		"448363"
+		"localtime"		"1572526713"
+		"time"		"1572526713"
+		"remotetime"		"1572526713"
+		"sha"		"dd9133db89905af28ccbe920a4a3050a8b0e281e"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"portal/save/half-life-000.tga"
+	{
+		"root"		"1"
+		"size"		"54018"
+		"localtime"		"1572526711"
+		"time"		"1572526711"
+		"remotetime"		"1572526711"
+		"sha"		"8aad67e41b7b029334b724d6de5ad0fc7d7d71a5"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+}

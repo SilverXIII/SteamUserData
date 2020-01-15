@@ -1,0 +1,39 @@
+"711660"
+{
+	"Amanita-Design.CHUCHEL/level.sav"
+	{
+		"root"		"4"
+		"size"		"206"
+		"localtime"		"1538470129"
+		"time"		"1538470129"
+		"remotetime"		"1538470129"
+		"sha"		"54b55da36883bb4599a9a53f4bef2ca4547742e4"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"1"
+	}
+	"Amanita-Design.CHUCHEL/autosave.sav"
+	{
+		"root"		"4"
+		"size"		"13"
+		"localtime"		"1538470129"
+		"time"		"1538470129"
+		"remotetime"		"1538470129"
+		"sha"		"c3b7bb78ee4b3d9d2d2519a2d4b740d19e32c39f"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"1"
+	}
+	"Amanita-Design.CHUCHEL/achi.sav"
+	{
+		"root"		"4"
+		"size"		"196"
+		"localtime"		"1538470129"
+		"time"		"1538470129"
+		"remotetime"		"1538470129"
+		"sha"		"dd819a56f32accd9dc10c3b0a6ba096ed431d211"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"1"
+	}
+}

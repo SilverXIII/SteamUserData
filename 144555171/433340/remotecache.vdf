@@ -1,0 +1,27 @@
+"433340"
+{
+	"Monomi Park/Slime Rancher/slimerancher.prf"
+	{
+		"root"		"12"
+		"size"		"1351"
+		"localtime"		"1498660688"
+		"time"		"1498660711"
+		"remotetime"		"1498660711"
+		"sha"		"fc26a3f3c68cb7f9d50dcdaf77dde9fe9fe0868f"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"Monomi Park/Slime Rancher/20170624173605_Silver.sav"
+	{
+		"root"		"12"
+		"size"		"220337"
+		"localtime"		"1498660688"
+		"time"		"1498660711"
+		"remotetime"		"1498660711"
+		"sha"		"672d6e5acafa00d3436f7deaf5a3d9113e5677af"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+}

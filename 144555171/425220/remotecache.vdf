@@ -1,0 +1,15 @@
+"425220"
+{
+	"SYSTEM-DATA"
+	{
+		"root"		"0"
+		"size"		"123072"
+		"localtime"		"1502894378"
+		"time"		"1502894378"
+		"remotetime"		"1501508098"
+		"sha"		"cc4b3c093faa55c2c808871e9a8ed483edc98559"
+		"syncstate"		"3"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+}

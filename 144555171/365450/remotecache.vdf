@@ -1,0 +1,39 @@
+"365450"
+{
+	"save_SILVER.xml"
+	{
+		"root"		"0"
+		"size"		"1462643"
+		"localtime"		"1572865224"
+		"time"		"1572865222"
+		"remotetime"		"1572865222"
+		"sha"		"fec671e04b5a901801b40119385fb16e5a0f5b16"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"Accounts.txt"
+	{
+		"root"		"0"
+		"size"		"325"
+		"localtime"		"1572865401"
+		"time"		"1572865399"
+		"remotetime"		"1572865399"
+		"sha"		"f020e2a4fdf2cb0210c43f84952c4629870564e1"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"save_silver2.xml"
+	{
+		"root"		"0"
+		"size"		"1480010"
+		"localtime"		"1572870619"
+		"time"		"1572870618"
+		"remotetime"		"1572870618"
+		"sha"		"0c2df8c4cf7616d4383352f1fd6b743f728d3a0f"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+}

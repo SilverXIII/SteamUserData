@@ -1,0 +1,63 @@
+"333600"
+{
+	"savecheck"
+	{
+		"root"		"0"
+		"size"		"44"
+		"localtime"		"1498561673"
+		"time"		"1498561695"
+		"remotetime"		"1498561695"
+		"sha"		"7eff47756ebc1dde2648c5c45dab76dee9951abb"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"datasc.ksd"
+	{
+		"root"		"0"
+		"size"		"1347"
+		"localtime"		"1498562254"
+		"time"		"1498562275"
+		"remotetime"		"1498562275"
+		"sha"		"64aa095ea54028449f900458699510ab05a1d131"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"datasu.ksd"
+	{
+		"root"		"0"
+		"size"		"1082"
+		"localtime"		"1498562254"
+		"time"		"1498562275"
+		"remotetime"		"1498562275"
+		"sha"		"f36b076cc577ab5d3e680901d65a608522fe2852"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"data0.bmp"
+	{
+		"root"		"0"
+		"size"		"66591"
+		"localtime"		"1498562129"
+		"time"		"1498562150"
+		"remotetime"		"1498562150"
+		"sha"		"c67d27f4f20984a9ca7255b68bdadde0bbfc472c"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"data100.bmp"
+	{
+		"root"		"0"
+		"size"		"66595"
+		"localtime"		"1498562133"
+		"time"		"1498562154"
+		"remotetime"		"1498562154"
+		"sha"		"e639454db8b9fdb2876d4aa018bca178b5f47221"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+}

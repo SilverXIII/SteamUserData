@@ -1,0 +1,51 @@
+"790820"
+{
+	"SEGA/VC4/gamesaves/AutoSave.vc4save"
+	{
+		"root"		"2"
+		"size"		"5244248"
+		"localtime"		"1573103782"
+		"time"		"1573103780"
+		"remotetime"		"1573103780"
+		"sha"		"0be3d896c750af86d8476b21cd442c1806201226"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"SEGA/VC4/gamesaves/07_11_2019__13_43_43.vc4save"
+	{
+		"root"		"2"
+		"size"		"5244248"
+		"localtime"		"1573105423"
+		"time"		"1573105421"
+		"remotetime"		"1573105421"
+		"sha"		"f73b2d53ea9f589c1c461223dcc53114b33d7dee"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"SEGA/VC4/gamesaves/19_10_2019__18_18_03.vc4save"
+	{
+		"root"		"2"
+		"size"		"0"
+		"localtime"		"0"
+		"time"		"0"
+		"remotetime"		"1571480281"
+		"sha"		"0000000000000000000000000000000000000000"
+		"syncstate"		"1"
+		"persiststate"		"2"
+		"platformstosync2"		"-1"
+	}
+	"SEGA/VC4/gamesaves/11_12_2019__21_41_16.vc4save"
+	{
+		"root"		"2"
+		"size"		"5244248"
+		"localtime"		"1576071676"
+		"time"		"1576071676"
+		"remotetime"		"1576071676"
+		"sha"		"703f2b58318bb282a780a59a21ae432f4b5b3534"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+}

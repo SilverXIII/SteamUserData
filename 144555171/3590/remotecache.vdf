@@ -1,0 +1,39 @@
+"3590"
+{
+	"users.dat"
+	{
+		"root"		"0"
+		"size"		"22"
+		"localtime"		"1498212533"
+		"time"		"1498212545"
+		"remotetime"		"1498212545"
+		"sha"		"873657998e844ba3f10747c1cf2dce7606e1f4c6"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"user1.dat"
+	{
+		"root"		"0"
+		"size"		"888"
+		"localtime"		"1499115206"
+		"time"		"1499115236"
+		"remotetime"		"1499115236"
+		"sha"		"cb9dd6bee57edbbf8407c793debd3eb4730e4b2f"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"game1_0.dat"
+	{
+		"root"		"0"
+		"size"		"36016"
+		"localtime"		"1498212847"
+		"time"		"1498212860"
+		"remotetime"		"1498212860"
+		"sha"		"6d1bfd1967dfbf2876e61f616fbb5266f6cdce85"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+}

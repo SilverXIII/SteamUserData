@@ -1,0 +1,39 @@
+"364360"
+{
+	"filters.eff"
+	{
+		"root"		"0"
+		"size"		"97"
+		"localtime"		"1500707110"
+		"time"		"1500707167"
+		"remotetime"		"1500707167"
+		"sha"		"add1a0fcfaeb06d1074cc5c43e0eb2ef7fbdc9c2"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"搐 鵰  2.save"
+	{
+		"root"		"0"
+		"size"		"10196975"
+		"localtime"		"1498727416"
+		"time"		"1498727439"
+		"remotetime"		"1498727439"
+		"sha"		"00f53d659b15b165a6b3d1a2220d254de231d9ab"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"auto-save.save"
+	{
+		"root"		"0"
+		"size"		"10096928"
+		"localtime"		"1500708910"
+		"time"		"1500708967"
+		"remotetime"		"1500708967"
+		"sha"		"82cc983f30f0cf983c5855debc4f9531861fbb44"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+}

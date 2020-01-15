@@ -1,0 +1,39 @@
+"261640"
+{
+	"My Games/Borderlands The Pre-Sequel/WillowGame/SaveData/76561198104820899/profile.bin"
+	{
+		"root"		"2"
+		"size"		"561"
+		"localtime"		"1554647615"
+		"time"		"1554647612"
+		"remotetime"		"1554647612"
+		"sha"		"0dbd062d4348479bea4b684e1ea298b7498f855c"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"1"
+	}
+	"My Games/Borderlands The Pre-Sequel/WillowGame/SaveData/76561198104820899/Save0001.sav"
+	{
+		"root"		"2"
+		"size"		"28871"
+		"localtime"		"1544457284"
+		"time"		"1544457283"
+		"remotetime"		"1544457283"
+		"sha"		"9971e48ac80920884ddc7b1238fe7afbeaaa32b2"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"1"
+	}
+	"My Games/Borderlands The Pre-Sequel/WillowGame/SaveData/76561198104820899/Save0001.sav.bak"
+	{
+		"root"		"2"
+		"size"		"28871"
+		"localtime"		"1554647517"
+		"time"		"1554647514"
+		"remotetime"		"1554647514"
+		"sha"		"9971e48ac80920884ddc7b1238fe7afbeaaa32b2"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"1"
+	}
+}

@@ -1,0 +1,39 @@
+"206420"
+{
+	"sr3DEF_PROFILE"
+	{
+		"root"		"0"
+		"size"		"17288"
+		"localtime"		"1502974476"
+		"time"		"1502974476"
+		"remotetime"		"1502974476"
+		"sha"		"d7444916b8dac2aeaaa045e2f79d538435440872"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"sr4save_autosave.sr4s_pc"
+	{
+		"root"		"0"
+		"size"		"28669"
+		"localtime"		"1502974406"
+		"time"		"1502974406"
+		"remotetime"		"1502974406"
+		"sha"		"c46d9c0a86f65bf4f082b6143d56d5113c7f8d57"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"sr4save_0.sr4s_pc"
+	{
+		"root"		"0"
+		"size"		"28669"
+		"localtime"		"1502974476"
+		"time"		"1502974476"
+		"remotetime"		"1502974476"
+		"sha"		"5190ae823d1f61dd21b48ef5221402ade9b39ab3"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+}

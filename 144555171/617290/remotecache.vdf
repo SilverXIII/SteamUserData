@@ -1,0 +1,27 @@
+"617290"
+{
+	"Remnant/Saved/SaveGames/save_0.sav"
+	{
+		"root"		"3"
+		"size"		"491572"
+		"localtime"		"1567950186"
+		"time"		"1567950183"
+		"remotetime"		"1567950183"
+		"sha"		"232e2e7e74d8aaf9afb73836e982d6a871c90165"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"1"
+	}
+	"Remnant/Saved/SaveGames/profile.sav"
+	{
+		"root"		"3"
+		"size"		"13414"
+		"localtime"		"1567950186"
+		"time"		"1567950183"
+		"remotetime"		"1567950183"
+		"sha"		"c83f0154796203341965b0a519aa06fb2275861b"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"1"
+	}
+}

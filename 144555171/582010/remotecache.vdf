@@ -1,0 +1,39 @@
+"582010"
+{
+	"SAVEDATA1000"
+	{
+		"root"		"0"
+		"size"		"11284704"
+		"localtime"		"1579066693"
+		"time"		"1579066695"
+		"remotetime"		"1579066695"
+		"sha"		"0dc1d7837af3a995ecad779de034ba5d1ae071d4"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"SAVEDATA_B"
+	{
+		"root"		"0"
+		"size"		"17104"
+		"localtime"		"1544094292"
+		"time"		"1544094291"
+		"remotetime"		"1544094291"
+		"sha"		"93a671a3b3ea79edb044993db7215f386787380e"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"PhotoData00.dat"
+	{
+		"root"		"0"
+		"size"		"368154"
+		"localtime"		"1578913961"
+		"time"		"1578913960"
+		"remotetime"		"1578913960"
+		"sha"		"1e2006746c9def25d4524a369859dd1dda39faf3"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+}

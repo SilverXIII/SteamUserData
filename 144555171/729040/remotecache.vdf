@@ -1,0 +1,27 @@
+"729040"
+{
+	"My Games/Borderlands Game of the Year/Binaries/SaveData/profile.bin"
+	{
+		"root"		"2"
+		"size"		"344"
+		"localtime"		"1554736492"
+		"time"		"1554736489"
+		"remotetime"		"1554736489"
+		"sha"		"b2dc928892d7477832f0f7c3fe8f75c24f6362f1"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"1"
+	}
+	"My Games/Borderlands Game of the Year/Binaries/SaveData/Save0001.sav"
+	{
+		"root"		"2"
+		"size"		"9247"
+		"localtime"		"1554737892"
+		"time"		"1554737889"
+		"remotetime"		"1554737889"
+		"sha"		"cc16f2fb2b636421ad74c4e9a39e47c0dfc3f2d3"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"1"
+	}
+}

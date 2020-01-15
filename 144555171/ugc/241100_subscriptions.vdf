@@ -1,0 +1,35 @@
+"subscribedfiles"
+{
+	"appid"		"241100"
+	"time_last_updated"		"1"
+	"0"
+	{
+		"publishedfileid"		"754616467"
+		"time_subscribed"		"1500176657"
+	}
+	"1"
+	{
+		"publishedfileid"		"835566725"
+		"time_subscribed"		"1500176657"
+	}
+	"2"
+	{
+		"publishedfileid"		"835565607"
+		"time_subscribed"		"1500176657"
+	}
+	"3"
+	{
+		"publishedfileid"		"759217323"
+		"time_subscribed"		"1501504134"
+	}
+	"4"
+	{
+		"publishedfileid"		"818529005"
+		"time_subscribed"		"1502889591"
+	}
+	"5"
+	{
+		"publishedfileid"		"552499562"
+		"time_subscribed"		"1502889608"
+	}
+}

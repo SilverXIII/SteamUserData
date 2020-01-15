@@ -1,0 +1,27 @@
+"250050"
+{
+	"profile.lgo"
+	{
+		"root"		"0"
+		"size"		"4434"
+		"localtime"		"1563030773"
+		"time"		"1563030771"
+		"remotetime"		"0"
+		"sha"		"0f13ad0f5644d63b8e1ec9a927130455c2556590"
+		"syncstate"		"3"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"save.lgo"
+	{
+		"root"		"0"
+		"size"		"2306"
+		"localtime"		"1563030773"
+		"time"		"1563030771"
+		"remotetime"		"0"
+		"sha"		"d8ecd9acbce1975fc32fbaeecef8c79ad1325bc3"
+		"syncstate"		"3"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+}
